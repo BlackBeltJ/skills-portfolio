@@ -1,0 +1,3 @@
+[submodule "Django-Python Web App"]
+	path = Django-Python Web App
+	url = https://github.com/BlackBeltJ/cs3300-webapp.git
